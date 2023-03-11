@@ -3,11 +3,11 @@ import random
 
 
 def calc_games():
-    count = 0
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
     print(f'What is the result of the expression?')
+    count = 0
     while count < 3:
         operand_frst = random.randint(0, 10)
         operand_scnd = random.randint(0, 10)
