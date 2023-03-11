@@ -19,6 +19,5 @@ def brain_even():
             if count == 3:
                 print(f'Congratulations, {name}!')
         else:
-            print(f"{your_answ} is wrong answer ;(. Correct answer was {correct_answ}. Let's try again, {name}!")
+            print(f'''"{your_answ}" is wrong answer ;(. Correct answer was "{correct_answ}". Let's try again, {name}!''')
             break
-
