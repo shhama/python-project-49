@@ -3,11 +3,11 @@ import random
 
 def brain_even():
     dict = {True: "yes", False: "no"}
-    count = 0
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
     print(f'Answer "yes" if the number is even, otherwise answer "no".')
+    count = 0
     while count < 3:
         rand_num = random.randrange(100)
         correct_answ = dict[rand_num % 2 == 0]
