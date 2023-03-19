@@ -31,4 +31,6 @@ def arithmet_progr():
             break
         else:
             print("Correct!")
-        count += 1
+       	    count += 1
+            if count == 3:
+                print(f'''Congratulations, {name}!''')
