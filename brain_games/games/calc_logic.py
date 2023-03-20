@@ -6,7 +6,7 @@ def calc_games():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
-    print(f'What is the result of the expression?')
+    print('What is the result of the expression?')
     count = 0
     while count < 3:
         operand_frst = random.randint(0, 10)
@@ -28,7 +28,6 @@ def calc_games():
             if count == 3:
                 print(f'Congratulations, {name}!')
         else:
-            print(f'''"{your_answ}" is wrong answer ;(. Correct answer was "{correct_answ}". \nLet's try again, {name}!''')
+            print(f'''"{your_answ}" is wrong answer ;(. Correct answer was'''
+                  f'''"{correct_answ}".\nLet's try again, {name}!''')
             break
-
-
