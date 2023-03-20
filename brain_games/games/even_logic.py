@@ -1,12 +1,13 @@
 import prompt
 import random
 
+
 def brain_even():
     dict = {True: "yes", False: "no"}
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
-    print(f'Answer "yes" if the number is even, otherwise answer "no".')
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     count = 0
     while count < 3:
         rand_num = random.randrange(100)
@@ -19,5 +20,6 @@ def brain_even():
             if count == 3:
                 print(f'Congratulations, {name}!')
         else:
-            print(f'''"{your_answ}" is wrong answer ;(. Correct answer was "{correct_answ}". Let's try again, {name}!''')
+            print(f'''"{your_answ}" is wrong answer ;(. Correct answer was'''
+                  f'''" {correct_answ}". Let's try again, {name}!''')
             break
