@@ -17,7 +17,7 @@ def gcd_game():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
-    print(f'Find the greatest common divisor of given numbers.')
+    print('Find the greatest common divisor of given numbers.')
     while count < 3:
         a = random.randint(0, 100)
         b = random.randint(0, 100)
@@ -29,5 +29,6 @@ def gcd_game():
             if count == 3:
                 print(f'Congratulations, {name}!')
         else:
-            print(f"{your_answ} is wrong answer ;(. Correct answer was {is_nod(a, b)}. \nLet's try again, {name}!")
+            print(f'''{your_answ} is wrong answer ;(. Correct answer'''
+                  f''' was {is_nod(a, b)}. \nLet's try again, {name}!''')
             break
