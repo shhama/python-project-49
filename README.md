@@ -21,3 +21,4 @@ Brain-games - includes 5 simple games. Which are somehow connected with mathemat
 ## Installation
 '''
 git clone git@github.com:shhama/python-project-50.git
+'''
