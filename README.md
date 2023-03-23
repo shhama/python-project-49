@@ -7,8 +7,7 @@
 
 <p align="center">
 
-![fotor_2023-3-23_14_41_10](https://user-images.githubusercontent.com/119732249/227193640-12648849-e732-47b3-91d4-78998c8617ef.jpg)
-
+![aViwfghxLn1PBO4xCKnxSEsr1K3fptUP_0](https://user-images.githubusercontent.com/119732249/227211445-3b9a1d31-50a3-4d06-adb4-a13da44c2a3b.jpg)
 
 ## Description
 
