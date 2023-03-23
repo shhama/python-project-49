@@ -20,6 +20,19 @@ Brain-games - includes 5 simple games. Which are somehow connected with mathemat
 [Poetry](https://python-poetry.org) - ^1.3.1
 
 ## Installation
+- **install** the current version with [Github](https://github.com/shhama/python-project-50)
 ```
 git clone git@github.com:shhama/python-project-50.git
+```
+- **select** root directory:
+```
+cd python-project-50
+```
+- **assemble** the package:
+```
+make build
+```
+- **install** it:
+```
+package-install
 ```
