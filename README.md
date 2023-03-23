@@ -15,4 +15,4 @@
 Brain-games - includes 5 simple games. Which are somehow connected with mathematical operations. The difficulty increases with each game.
 
 ## Requirements
-** [Python](https://www.python.org)[-^3.10]
+[Python](https://www.python.org)-^3.10
