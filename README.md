@@ -9,4 +9,7 @@
 
 ![fotor_2023-3-23_14_41_10](https://user-images.githubusercontent.com/119732249/227193640-12648849-e732-47b3-91d4-78998c8617ef.jpg)
 
+
 ## Description
+
+Brain-games - includes 5 simple games. Which are somehow connected with mathematical operations. The difficulty increases with each game.
