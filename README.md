@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-![aViwfghxLn1PBO4xCKnxSEsr1K3fptUP_0](https://user-images.githubusercontent.com/119732249/227211445-3b9a1d31-50a3-4d06-adb4-a13da44c2a3b.jpg)
+
 
 ## Description
 
