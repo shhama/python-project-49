@@ -15,4 +15,9 @@
 Brain-games - includes 5 simple games. Which are somehow connected with mathematical operations. The difficulty increases with each game.
 
 ## Requirements
-[Python](https://www.python.org)-^3.10
+[Python](https://www.python.org) - ^3.10
+[Poetry](https://python-poetry.org) - ^1.3.1
+
+## Installation
+'''
+git clone git@github.com:shhama/python-project-50.git
