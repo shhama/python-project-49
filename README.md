@@ -60,6 +60,7 @@ brain-gcd
 [![asciicast](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG.svg)](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG)
 
 ### 4. ***Brain-progression***
+We show the player a series of numbers that form an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number.
 ```
 brain-progression
 ```
