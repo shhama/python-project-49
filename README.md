@@ -43,5 +43,5 @@ The essence of the game is as follows: the user is shown a random number. And he
 ```
 brain-even
 ```
-[![asciicast](https://asciinema.org/a/ffl1kxI15vUUoWC1x72SJsVSI.svg)](https://asciinema.org/a/ffl1kxI15vUUoWC1x72SJsVSI)
+[![asciicast](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH.svg)](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH)
 
