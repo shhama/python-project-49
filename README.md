@@ -34,3 +34,14 @@ make build
 ```
 package-install
 ```
+______
+
+## ***Games:***
+
+### 1. ***Brain_even***
+The essence of the game is as follows: the user is shown a random number. And he needs to answer yes if the number is even, or no if it is odd
+```
+brain-even
+```
+https://asciinema.org/a/ffl1kxI15vUUoWC1x72SJsVSI
+
