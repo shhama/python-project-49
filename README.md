@@ -59,3 +59,9 @@ brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG.svg)](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG)
 
+### 4. ***Brain-progression***
+```
+brain-progression
+```
+[![asciicast](https://asciinema.org/a/zwkTw0msZ3G5KSopM15fbfXFF.svg)](https://asciinema.org/a/zwkTw0msZ3G5KSopM15fbfXFF)
+ 
