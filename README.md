@@ -44,4 +44,11 @@ The essence of the game is as follows: the user is shown a random number. And he
 brain-even
 ```
 [![asciicast](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH.svg)](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH)
+ 
+### 2. ***Brain_calc***
+The essence of the game is as follows: the user is shown a random mathematical expression, for example 35 + 16, which must be calculated and the correct answer written down.
+```
+brain-calc
+```
+[![asciicast](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR.svg)](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR)
 
