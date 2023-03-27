@@ -51,4 +51,11 @@ The essence of the game is as follows: the user is shown a random mathematical e
 brain-calc
 ```
 [![asciicast](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR.svg)](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR)
+ 
+### 3. ***Brain_gcd***
+The essence of the game is as follows: the user is shown two random numbers, for example, 25 50. The user must calculate and enter the greatest common divisor of these numbers.
+```
+brain-gcd
+```
+[![asciicast](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG.svg)](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG)
 
