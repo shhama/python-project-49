@@ -11,13 +11,13 @@ def arithmet_progr():
     while count < 3:
         start = random.randint(1, 100)
         step = random.randint(1, 5)
-        size = 10
+        SIZE = 10
         a = []
-        for i in range(size):
+        for i in range(SIZE):
             start += step
             i += start
             a.append(start)
-        rand_int = random.randint(1, 9)
+        rand_int = random.randint(1, 10)
         string = [str(i) for i in a]
         string[rand_int] = ".."
         join_strng = " ".join(string)
