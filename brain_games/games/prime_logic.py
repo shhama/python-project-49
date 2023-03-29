@@ -2,6 +2,9 @@ import random
 import prompt
 
 
+dict = {True: "yes", False: "no"}
+
+
 def is_prime():
     dict = {True: "yes", False: "no"}
     print("Welcome to the Brain Games!")
