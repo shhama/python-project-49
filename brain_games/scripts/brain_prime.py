@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from brain_games.games.prime_logic import is_prime
+from brain_games.games.prime_logic import play_prime
 
 
 def main():
-    is_prime()
+    play_prime()
 
 
 if __name__ == '__main__':
