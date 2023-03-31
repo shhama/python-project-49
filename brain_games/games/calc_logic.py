@@ -12,7 +12,7 @@ def play_calc():
         operand_first = random.randint(0, 10)
         operand_second = random.randint(0, 10)
         operators = ["+", "-", "*"]
-        rand_op = random.choice(operator)
+        rand_op = random.choice(operators)
         expression = f'{operand_first} {rand_op} {operand_second}'
         dict = {
             "+": operand_first + operand_second,
