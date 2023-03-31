@@ -2,8 +2,10 @@ import prompt
 import random
 
 
-def brain_even():
-    dict = {True: "yes", False: "no"}
+dict = {True: "yes", False: "no"}
+
+
+def play_even():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
