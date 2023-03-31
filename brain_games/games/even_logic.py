@@ -2,6 +2,8 @@ import prompt
 import random
 
 
+FIRST_NUM = 1
+LAST_NUM = 100
 dict = {True: "yes", False: "no"}
 
 
@@ -12,7 +14,7 @@ def play_even():
     print('Answer "yes" if the number is even, otherwise answer "no".')
     count = 0
     while count < 3:
-        rand_num = random.randrange(100)
+        rand_num = random.randint(FIRST_NUM, LAST_NUM)
         correct_answ = dict[rand_num % 2 == 0]
         print(f'Question: {rand_num}')
         your_answ = prompt.string("Your answer: ")
