@@ -9,15 +9,15 @@ def play_calc():
     print('What is the result of the expression?')
     count = 0
     while count < 3:
-        operand_frst = random.randint(0, 10)
-        operand_scnd = random.randint(0, 10)
-        operator = ["+", "-", "*"]
+        operand_first = random.randint(0, 10)
+        operand_second = random.randint(0, 10)
+        operators = ["+", "-", "*"]
         rand_op = random.choice(operator)
-        expression = f'{operand_frst} {rand_op} {operand_scnd}'
+        expression = f'{operand_first} {rand_op} {operand_second}'
         dict = {
-            "+": operand_frst + operand_scnd,
-            "-": operand_frst - operand_scnd,
-            "*": operand_frst * operand_scnd
+            "+": operand_first + operand_second,
+            "-": operand_first - operand_second,
+            "*": operand_first * operand_second
         }
         correct_answ = dict[rand_op]
         print(f'Question: {expression}')
