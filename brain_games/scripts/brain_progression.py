@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from brain_games.games.progression_logic import arithmet_progr
+from brain_games.games.progression_logic import play_progr
 
 
 def main():
-    arithmet_progr()
+    play_progr()
 
 
 if __name__ == '__main__':
