@@ -2,7 +2,7 @@ import random
 import prompt
 
 
-def mk_progression():
+def make_progression():
     start = random.randint(1, 100)
     step = random.randint(1, 5)
     SIZE = 10
@@ -14,7 +14,7 @@ def mk_progression():
     return a
 
 
-def arithmet_progr():
+def play_progr():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
@@ -22,7 +22,7 @@ def arithmet_progr():
     count = 0
     while count < 3:
         rand_int = random.randint(1, 9)
-        a = mk_progression()
+        a = make_progression()
         string = [str(i) for i in a]
         string[rand_int] = ".."
         join_strng = " ".join(string)
