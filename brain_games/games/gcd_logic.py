@@ -12,7 +12,7 @@ def is_nod(a, b):
         return is_nod(a, b - a)
 
 
-def gcd_game():
+def play_gcd():
     count = 0
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
