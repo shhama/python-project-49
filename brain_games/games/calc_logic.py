@@ -1,6 +1,7 @@
 import prompt
 import random
 
+
 FIRST_NUM = 1
 LAST_NUM = 10
 
