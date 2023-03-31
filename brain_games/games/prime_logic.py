@@ -14,7 +14,7 @@ def is_prime(x):
     return simple
 
 
-def prime_game():
+def play_prime():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
