@@ -2,7 +2,7 @@ import prompt
 import random
 
 
-def calc_games():
+def play_calc():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f'Hello, {name}!')
