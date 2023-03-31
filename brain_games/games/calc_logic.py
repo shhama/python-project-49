@@ -1,6 +1,9 @@
 import prompt
 import random
 
+FIRST_NUM = 1
+LAST_NUM = 10
+
 
 def play_calc():
     print("Welcome to the Brain Games!")
@@ -9,8 +12,8 @@ def play_calc():
     print('What is the result of the expression?')
     count = 0
     while count < 3:
-        operand_first = random.randint(0, 10)
-        operand_second = random.randint(0, 10)
+        operand_first = random.randint(FIRST_NUM, LAST_NUM)
+        operand_second = random.randint(FIRST_NUM, LAST_NUM)
         operators = ["+", "-", "*"]
         rand_op = random.choice(operators)
         expression = f'{operand_first} {rand_op} {operand_second}'
