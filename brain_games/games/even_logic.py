@@ -17,6 +17,3 @@ def take_game():
     else:
         correct = "no"
     return question, correct
-
-
-
