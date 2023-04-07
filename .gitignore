@@ -2,5 +2,5 @@
 dist/
 __pycache__/
 __init__.py
-/brain_games/games/calc_logic.py.save
+*.save
 
