@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random
 
 
@@ -18,6 +19,6 @@ def take_game():
         "-": operand_first - operand_second,
         "*": operand_first * operand_second
     }
-    question = f'{operand_first} {rand_op} {operand_second}'
+    question = f'''Question: {operand_first} {rand_op} {operand_second}'''
     correct = str(actions[rand_op])
     return question, correct
