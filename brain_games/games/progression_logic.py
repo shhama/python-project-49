@@ -10,7 +10,7 @@ def make_progression():
     step = random.randint(1, 5)
     size = 10
     a = []
-    for i in range(SIZE):
+    for i in range(size):
         start += step
         i += start
         a.append(start)
