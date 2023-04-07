@@ -8,7 +8,7 @@ MESSAGE = "What number is missing in the progression?"
 def make_progression():
     start = random.randint(1, 100)
     step = random.randint(1, 5)
-    SIZE = 10
+    size = 10
     a = []
     for i in range(SIZE):
         start += step
