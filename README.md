@@ -43,33 +43,33 @@ The essence of the game is as follows: the user is shown a random number. And he
 ```
 brain-even
 ```
-[![asciicast](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH.svg)](https://asciinema.org/a/qxWNjII20JSE585eKket52xDH)
+[![asciicast](https://asciinema.org/a/qwidBcBWaFaSCPKEaTLSCjBXI.svg)](https://asciinema.org/a/qwidBcBWaFaSCPKEaTLSCjBXI)
  
 ### 2. ***Brain_calc***
 The essence of the game is as follows: the user is shown a random mathematical expression, for example 35 + 16, which must be calculated and the correct answer written down.
 ```
 brain-calc
 ```
-[![asciicast](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR.svg)](https://asciinema.org/a/2TR6lBz7Z9fzQLPfAJI8zNsrR)
+[![asciicast](https://asciinema.org/a/X7lHeoCC3zcLgMzQtzyBwUYM9.svg)](https://asciinema.org/a/X7lHeoCC3zcLgMzQtzyBwUYM9)
  
 ### 3. ***Brain_gcd***
 The essence of the game is as follows: the user is shown two random numbers, for example, 25 50. The user must calculate and enter the greatest common divisor of these numbers.
 ```
 brain-gcd
 ```
-[![asciicast](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG.svg)](https://asciinema.org/a/KdkPRIkNtGXheTBgBYLJiT3RG)
+[![asciicast](https://asciinema.org/a/CnTP5fXIMU3iw2Ko2mucanWzD.svg)](https://asciinema.org/a/CnTP5fXIMU3iw2Ko2mucanWzD)
 
 ### 4. ***Brain-progression***
 We show the player a series of numbers that form an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number.
 ```
 brain-progression
 ```
-[![asciicast](https://asciinema.org/a/zwkTw0msZ3G5KSopM15fbfXFF.svg)](https://asciinema.org/a/zwkTw0msZ3G5KSopM15fbfXFF)
+[![asciicast](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA.svg)](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA))
 
 ### 5. ***Brain_prime***
 The player is given a number. He, in turn, must guess whether it is simple.
 ```
 brain-prime
 ```
-[![asciicast](https://asciinema.org/a/qU67F7HLpBg3s4V175mZU4CiN.svg)](https://asciinema.org/a/qU67F7HLpBg3s4V175mZU4CiN)
+[![asciicast](https://asciinema.org/a/AseLFKrAppuvCnKARq3VIzOZm.svg)](https://asciinema.org/a/AseLFKrAppuvCnKARq3VIzOZm)
  
