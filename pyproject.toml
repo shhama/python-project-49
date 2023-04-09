@@ -8,7 +8,7 @@ repository = "https://github.com/shhama/python-project-49.git"
 classifiers = [
     "Development Status :: 5 - Production/Stable"
     "Environment :: Console"  
-    "Intended Audience :: Developers
+    "Intended Audience :: Developers"
     "License :: Free For Home Use"
     "Natural Language :: English"
     "Operating System :: POSIX :: Linux"
