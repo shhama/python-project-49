@@ -64,7 +64,7 @@ We show the player a series of numbers that form an arithmetic progression, repl
 ```
 brain-progression
 ```
-[![asciicast](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA.svg)](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA))
+[![asciicast](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA.svg)](https://asciinema.org/a/mN1xdvpmwsxUzYzuOAhQM33dA)
 
 ### 5. ***Brain_prime***
 The player is given a number. He, in turn, must guess whether it is simple.
