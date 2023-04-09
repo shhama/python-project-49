@@ -29,11 +29,11 @@ Brain-games - includes 5 simple games. Which are somehow connected with mathemat
 ```
 pip install poetry
 ```
-- **install** the current version with [Github](https://github.com/shhama/python-project-50):
+- **Install** the current version with [Github](https://github.com/shhama/python-project-50):
 ```
 git clone git@github.com:shhama/python-project-50.git
 ```
-- **select** root directory:
+- **Select** root directory:
 ```
 cd python-project-49
 ```
@@ -41,11 +41,11 @@ cd python-project-49
 ```
 poetry install --dev
 ```
-- **assemble** the package:
+- **Assemble** the package:
 ```
 make build
 ```
-- **install** it:
+- **Install** it:
 ```
 make package-install
 ```
