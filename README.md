@@ -7,6 +7,7 @@
 
 <p align="center">
 
+---
 
 ## Description
 
@@ -17,14 +18,22 @@ Brain-games - includes 5 simple games. Which are somehow connected with mathemat
 
 [Poetry](https://python-poetry.org) - ^1.3.1
 
+---
+
 ## Installation
+
+### ***For developers:***
 - **install** the current version with [Github](https://github.com/shhama/python-project-50):
 ```
 git clone git@github.com:shhama/python-project-50.git
 ```
 - **select** root directory:
 ```
-cd python-project-50
+cd python-project-49
+```
+- **Install** dependencies from [pyproject.toml](https://github.com/shhama/python-project-49/blob/main/pyproject.toml):
+```
+poetry install --dev
 ```
 - **assemble** the package:
 ```
@@ -32,9 +41,24 @@ make build
 ```
 - **install** it:
 ```
-package-install
+make package-install
 ```
-______
+### ***For users:***
+- **Install** the latest version from the repository:
+```
+python3 -m pip install --user git+https://github.com/shhama/python-project-49
+```
+
+---
+
+### ***Linter check:***
+- Run the command:
+```
+make lint
+```
+
+---
+
 
 ## ***Games:***
 
