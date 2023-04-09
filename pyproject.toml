@@ -6,12 +6,12 @@ authors = ["shhama <shamshetdinov.ilnur@mail.ru>"]
 readme = "README.md"
 repository = "https://github.com/shhama/python-project-49.git"
 classifiers = [
-    "Development Status :: 5 - Production/Stable"
-    "Environment :: Console"  
-    "Intended Audience :: Developers"
-    "License :: Free For Home Use"
-    "Natural Language :: English"
-    "Operating System :: POSIX :: Linux"
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",  
+    "Intended Audience :: Developers",
+    "License :: Free For Home Use",
+    "Natural Language :: English",
+    "Operating System :: POSIX :: Linux",
     "Programming Language :: Python :: 3.10"
 ]
 packages = [{ include = "brain_games" }]
