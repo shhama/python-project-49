@@ -1,10 +1,20 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "five mini-games that perform elementary mathematical operations."
 authors = ["shhama <shamshetdinov.ilnur@mail.ru>"]
 readme = "README.md"
-packages = [{ include = "brain_games" },]
+repository = "https://github.com/shhama/python-project-49.git"
+classifiers = [
+    "Development Status :: 5 - Production/Stable"
+    "Environment :: Console"  
+    "Intended Audience :: Developers
+    "License :: Free For Home Use"
+    "Natural Language :: English"
+    "Operating System :: POSIX :: Linux"
+    "Programming Language :: Python :: 3.10"
+]
+packages = [{ include = "brain_games" }]
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
